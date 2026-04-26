@@ -55,6 +55,9 @@ content library to answer:
 ### Top Countries by Content
 ![Countries](charts/05_top_countries.png)
 
+### Movie Duration Distribution
+![Duration](charts/06_duration_dist.png)
+
 ### Language Heatmap
 ![Language](charts/07_language_heatmap.png)
 
